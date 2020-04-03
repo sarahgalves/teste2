@@ -1,0 +1,24 @@
+body {
+    background: #a5b; color: seashell;
+    margin-left: 300px;
+}
+
+header{
+    margin-bottom: 270px;
+    margin-top: 300px;
+}
+
+h1{
+    color: greenyellow;
+    font-family: verdana;
+}
+
+p{
+    font-size: 18px;
+}
+
+.img_padrao{
+    margin-top: 300px;
+    margin-bottom: 250px;
+    width: 100px;
+}
